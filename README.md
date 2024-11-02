@@ -51,3 +51,11 @@ EDA involves answering some questions to create insights. Questions like
 
 
 ### Data Visualization
+
+
+![CAPSTONE SUBSCRIPTION 3](https://github.com/user-attachments/assets/6ba2fcc3-0d58-44b4-a00d-95a56c14d123)
+
+
+![CAPSTONE SUBSCRIPTION DASHBOARD](https://github.com/user-attachments/assets/0b1c33b0-3751-40ca-9214-aefbf53b5eae)
+
+
